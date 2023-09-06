@@ -2,7 +2,7 @@
 NourishMindAI :brain::books:
 An open-source initiative to create a personalized AI-driven education system that serves as a societal investment, aimed at fostering lifelong learning and enabling basic income.
 
-🌐 Official Website: Basic Income Blueprint
+🌐 Official Website: [Basic Income Blueprint](https://basicincomeblueprint.com/)
 
 Table of Contents
 Why NourishMindAI?
